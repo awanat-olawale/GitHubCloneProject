@@ -10,7 +10,7 @@ Familiarize yourself with the process of cloning an existing repository from Git
 - Pushing updates to a remote repository
 
 #### Expected outcome:
-* Your GitHub repository GitHubCloneProject will now include a greetings.txt file with the specified content. This demonstrates your ability to clone a repository, make changes locally, and push those changes back to the remote repository.
+*Your GitHub repository GitHubCloneProject will now include a greetings.txt file with the specified content. This demonstrates your ability to clone a repository, make changes locally, and push those changes back to the remote repository.*
 
 #### Notes:
 
@@ -19,8 +19,8 @@ Familiarize yourself with the process of cloning an existing repository from Git
 
 #### Repo:
 
-** GitHub repository: GitHubCloneProject
-File: greetings.txt, README.md
+**GitHub repository: GitHubCloneProject**
+**File: greetings.txt, README.md**
 
 # 2.Branching, Making Changes, and Resolving Merge Conflicts
 
@@ -35,7 +35,7 @@ Practice creating branches for feature development, merging branches, and resolv
 
 #### Expected outcome:
 
-* You will have successfully created a new feature branch, made changes in both the feature-greeting and main branches, and resolved a merge conflict resulting from attempting to merge these branches. Your GitHubCloneProject repository on GitHub will reflect these changes and the merge resolution.
+*You will have successfully created a new feature branch, made changes in both the feature-greeting and main branches, and resolved a merge conflict resulting from attempting to merge these branches. Your GitHubCloneProject repository on GitHub will reflect these changes and the merge resolution.*
 
 #### Notes:
 
@@ -44,5 +44,5 @@ Practice creating branches for feature development, merging branches, and resolv
 
 #### Repo:
 
-** GitHub repository: GitHubCloneProject
-File: feature.txt, README.md **
+**GitHub repository: GitHubCloneProject
+File: feature.txt, README.md**
