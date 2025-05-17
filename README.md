@@ -20,6 +20,7 @@ Familiarize yourself with the process of cloning an existing repository from Git
 #### Repo:
 
 **GitHub repository: GitHubCloneProject**
+
 **File: greetings.txt, README.md**
 
 # 2.Branching, Making Changes, and Resolving Merge Conflicts
@@ -44,5 +45,6 @@ Practice creating branches for feature development, merging branches, and resolv
 
 #### Repo:
 
-**GitHub repository: GitHubCloneProject
-File: feature.txt, README.md**
+**GitHub repository: GitHubCloneProject**
+
+**File: feature.txt, README.md**
